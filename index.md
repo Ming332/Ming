@@ -13,3 +13,4 @@
 - [hdfs](_posts/2021-5-25-hdfs.md)
 - [go](_posts/2021-9-21-go.md)
 - [k8s](_posts/2021-11-1-k8s.md)
+- [linux操作](_posts/linux.md)
