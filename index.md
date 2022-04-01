@@ -1,16 +1,5 @@
-- [C++](_posts/2020-9-24-cpp.md)
-- [Java](_posts/2020-10-10-java.md)
-- [JavaScript](_posts/2020-9-25-JavaScript.md)
-- [algorithms](_posts/2020-9-25-algorithms.md)
-- [SQL](_posts/2020-9-25-SQL.md)
-- [Leetcode](_posts/2020-9-25-leetcode.md)
-- [assembly](_posts/2020-10-14-assembly.md)
-- [csapp](_posts/2021-1-9-csapp.md)
-- [python自动化](_posts/2021-2-22-python.md)
-- [分布式](_posts/2021-3-14-distribution.md)
-- [internet](_posts/2021-3-16-internet.md)
-- [sicp](_posts/2021-4-15-sicp.md)
-- [hdfs](_posts/2021-5-25-hdfs.md)
-- [go](_posts/2021-9-21-go.md)
-- [k8s](_posts/2021-11-1-k8s.md)
-- [linux操作](_posts/linux.md)
+
+- [linux](_posts/linux.md)
+- [git](_posts/git.md)
+
+仓库地址：<a href=https://github.com/Ming332/Ming332.github.io>ming</a>
